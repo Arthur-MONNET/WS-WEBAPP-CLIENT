@@ -472,7 +472,7 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 #page-container {
   width: 100%;
   height: 100vh;

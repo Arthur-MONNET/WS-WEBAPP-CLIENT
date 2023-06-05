@@ -1,8 +1,6 @@
 require('dotenv').config();
 
 export default {
-  // Target: https://go.nuxtjs.dev/config-target
-  target: 'static',
   env: {
     mapboxToken: process.env.MAPBOX_TOKEN,
   },
